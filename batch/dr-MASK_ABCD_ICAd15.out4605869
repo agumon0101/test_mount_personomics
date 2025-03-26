@@ -1,0 +1,36 @@
+--------------------------------------------------------------
+Begin Slurm Prologue Tue Mar  4 10:11:06 CST 2025 1741104666
+Job ID:		4605869
+Username:	naranjorincon
+Partition:	tier2_cpu
+End Slurm Prologue Tue Mar  4 10:11:06 CST 2025 1741104666
+--------------------------------------------------------------
+sending melodic outputs to: /ceph/chpc/shared/janine_bijsterbosch_group/naranjorincon_scratch/NeuroTranslate/ty_script_ABCD_ICA/ABCD_ICA/ICAd15
+Just made melodic_out dir: /ceph/chpc/shared/janine_bijsterbosch_group/naranjorincon_scratch/NeuroTranslate/ty_script_ABCD_ICA/ABCD_ICA/ICAd15
+
+creating common mask... (part A)
+--------------------------------------------------------------
+Begin Slurm Epilogue Tue Mar  4 10:11:24 CST 2025 1741104684
+Name                : dr-MASK_ABCD_ICAd15
+User                : naranjorincon
+Partition           : tier2_cpu
+Nodes               : node15
+Cores               : 1
+State               : COMPLETED
+Submit              : 2025-03-04T10:11:05
+Start               : 2025-03-04T10:11:06
+End                 : 2025-03-04T10:11:22
+Reserved Walltime   : 1-00:55:00
+Used Walltime       :   00:00:16
+Used CPU Time       : --
+% User (Computation): --
+% System (I/O)      : --
+Mem Reserved        : 50G
+Max Mem Used        : 0.00  (0.0)
+Max Disk Write      : 0.00  (0.0)
+Max Disk Read       : 0.00  (0.0)
+Max-Mem-Used Node   : node15
+Max-Disk-Write Node : node15
+Max-Disk-Read Node  : node15
+End Slurm Epilogue Tue Mar  4 10:11:24 CST 2025 1741104684
+--------------------------------------------------------------
